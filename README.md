@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Clyde-kipkoech
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning Fullstack Developer
+- Hi, I’m @Clyde-kipkoech
+- I’m interested in Fullstack development
+- I’m currently learning Fullstack Developer
 - 💞️ I’m looking to collaborate on  front end and backend developer
-- 📫 How to reach me ...
+- 📫 How to reach me 
+Email: kipkoechclyde546@gmail.com
+Phone: +254792674009
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
