@@ -1,7 +1,7 @@
 - Hi, I’m @Clyde-kipkoech
 - I’m interested in Fullstack development
-- I’m currently learning Fullstack Developer
-- 💞️ I’m looking to collaborate on  front end and backend developer
+- I’m currently learning to be Fullstack Developer
+- 💞 I’m looking to collaborate on  front end and backend developer
 - 📫 How to reach me 
 Email: kipkoechclyde546@gmail.com
 Phone: +254792674009
